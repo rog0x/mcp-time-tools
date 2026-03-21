@@ -1,3 +1,5 @@
+[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-time-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-time-tools)
+
 # mcp-time-tools
 
 Date, time, and timezone tools for AI agents via the Model Context Protocol (MCP).
